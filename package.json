@@ -1,0 +1,18 @@
+{
+  "name": "nl11",
+  "version": "1.0.0",
+  "description": "A web-based 2D platform game with a procedural cavern",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "vite": "^2.4.4"
+  }
+}
